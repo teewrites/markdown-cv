@@ -1,91 +1,106 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Chinyeaka Osondu's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Chinyeaka Osondu
+Mathematician, Data Enthusiast.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<div id="email-address">
+<a href="chinyeakaosondu@gmail.com"></a>
+  | <a href="+2347069224931"></a>
+  
 </div>
 
 
-## Currently
+## Summary
 
-Standing on the shoulders of giants
+As your Organization navigates oceans of Data in this brave new world, my
+attributes as an Analytical thinker demonstrated in roles as an Accountant and
+Math Instructor will be valuable in charting a new course to Excellence. My
+people personalityand continuing exposure with Data Analytics and Design
+Thinking, positions me with the capability to engage People and Insights in
+producing good outcomes. I am available to work with your team in delivering
+excellence to the people you serve.
 
-### Specialized in
+### Skills
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`Tech fundamentals`
+__Microsoft Office, Internet,...__
 
+`Data Analysis`
+__Intermediate knowledge of Python and Power BI__
 
-### Research interests
+`Personality`
+__Team Player, Creativity, Continuous Learning, Leadership, Communication__
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`Spoken Languages`
+__English, Igbo__
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2019 - 2021`
+M.Sc in Mathematics
+__University of Lagos__
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2012 - 2016`
+B.Sc.Ed in Mathematics Education
+__Michael Okpara University of Agriculture__
 
 
+### Certifications
 
-## Publications
+`2020`
+ DESIGN THINKING: With Butterfly works.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2020`
+MINI-MBA PROGAM– TEKEDIA INSTITUTE
+Program focus: Innovation, Growth & Digital Execution – Techniques for
+Building Category-King Companies.
 
-### Journals
+`2020`
+IBM DIGITAL – NATION AFRICA
+Badges shows proficiency in:
+• Python for Data Science
+• Data Science and Analytics
+View Badges on Acclaim
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+## Experiences
 
-`1669`
-Lectiones opticæ.
+`2020`
+__Hamoye__, Online
+This is a project based online internship. Listed below are the projects and they Data
+Science skill learnt:
+PROJECT SKILL
+Python for machine learning Exploratory data analysis |Data visualization with
+Python
+Machine Learning Regression Measuring regression performance
+Data Storytelling (Pattern Python libraries | Web scraping: understanding of
+Recognition) Website scripts like XML, Javascript, JSON...
+Data curation for Storytelling
 
-etc. etc. etc.
+`2017 - 2018`
+__NYSC, Mathematics Instructor__, Delta 
+- Key Duties
+Worked with other teachers and administrators to evaluate and revise school programs.
+Drafted lesson plans and submitted them for review and feedback in a timely manner.
+Taught Classes on Algebra and Honors Algebra to Prep School students daily.
 
-### Patents
+- Achievements
+Improved student test scores on the Delta State Math competition test by 20% in one year
+period by implementing new curriculum.
+Improved student's analytical skills by introducing state-of-the-art computer program
+technologies.
+Assisted in developing student-led after-school tutoring program to teach under-privileged
+students.
+Consistently received positive teacher evaluations /commendations from students.
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan. 2021 -->
 
 

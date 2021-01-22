@@ -6,11 +6,9 @@ title: Chinyeaka Osondu's CV
 Mathematician, Data Enthusiast.
 
 <div id="email-address">
-<a href="chinyeakaosondu@gmail.com"></a>
-  | <a href="+2347069224931"></a>
-  
+<a href="chinyeakaosondu@gmail.com">chinyeakaosondu@gmail.com</a>
+| <a href="+2347069224931">Phone no</a>
 </div>
-
 
 ## Summary
 

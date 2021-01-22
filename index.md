@@ -39,11 +39,13 @@ __English, Igbo__
 
 `2019 - 2021`
 M.Sc in Mathematics
+
 __University of Lagos__
 
 
 `2012 - 2016`
 B.Sc.Ed in Mathematics Education
+
 __Michael Okpara University of Agriculture__
 
 
@@ -54,11 +56,13 @@ __Michael Okpara University of Agriculture__
 
 `2020`
 MINI-MBA PROGAM– TEKEDIA INSTITUTE
+
 Program focus: Innovation, Growth & Digital Execution – Techniques for
 Building Category-King Companies.
 
 `2020`
 IBM DIGITAL – NATION AFRICA
+
 Badges shows proficiency in:
 • Python for Data Science
 • Data Science and Analytics
@@ -68,18 +72,16 @@ View Badges on Acclaim
 
 `2020`
 __Hamoye__, Online
+
 This is a project based online internship. Listed below are the projects and they Data
-Science skill learnt:
-PROJECT SKILL
-Python for machine learning Exploratory data analysis |Data visualization with
-Python
-Machine Learning Regression Measuring regression performance
+Science skill learnt: Python for machine learning Exploratory data analysis |Data visualization with
+Python |Machine Learning Regression Measuring regression performance |
 Data Storytelling (Pattern Python libraries | Web scraping: understanding of
-Recognition) Website scripts like XML, Javascript, JSON...
-Data curation for Storytelling
+Recognition) Website scripts like XML, Javascript, JSON... | Data curation for Storytelling
 
 `2017 - 2018`
 __NYSC, Mathematics Instructor__, Delta 
+
 - Key Duties
 Worked with other teachers and administrators to evaluate and revise school programs.
 Drafted lesson plans and submitted them for review and feedback in a timely manner.
